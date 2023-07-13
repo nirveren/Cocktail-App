@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nirveren.github.io./static/css/main.a3bd2f1e.css",
+    "main.js": "/nirveren.github.io./static/js/main.902bd88d.js",
+    "static/media/bg.jpeg": "/nirveren.github.io./static/media/bg.d49d1d6826cb56773976.jpeg",
+    "static/media/rum.jpeg": "/nirveren.github.io./static/media/rum.869bc393b31f7ff0f8cc.jpeg",
+    "static/media/vodka.jpeg": "/nirveren.github.io./static/media/vodka.0b3933cd625e928858f8.jpeg",
+    "static/media/teq.jpeg": "/nirveren.github.io./static/media/teq.429ab4e0b6616b7f00a4.jpeg",
+    "static/media/gin.jpeg": "/nirveren.github.io./static/media/gin.b404ef7f30f31af2ab4a.jpeg",
+    "static/media/cocktail.svg": "/nirveren.github.io./static/media/cocktail.9bfaf99b374dfb47e4109acac406843b.svg",
+    "static/media/goBack.svg": "/nirveren.github.io./static/media/goBack.e107e0eb59fd213b52f4443804c661d5.svg",
+    "static/media/favorite-fill.svg": "/nirveren.github.io./static/media/favorite-fill.fa9fc6878ce42f19241e5ad2af937072.svg",
+    "static/media/favorite.svg": "/nirveren.github.io./static/media/favorite.b1cb4323be07065420f0be3be7ed79ff.svg",
+    "index.html": "/nirveren.github.io./index.html",
+    "main.a3bd2f1e.css.map": "/nirveren.github.io./static/css/main.a3bd2f1e.css.map",
+    "main.902bd88d.js.map": "/nirveren.github.io./static/js/main.902bd88d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3bd2f1e.css",
+    "static/js/main.902bd88d.js"
+  ]
+}
