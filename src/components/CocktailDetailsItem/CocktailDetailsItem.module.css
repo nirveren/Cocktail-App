@@ -1,0 +1,47 @@
+.ingredient {
+    margin-left: 20px;
+    background-color: var(--color-red);
+    color: var(--color-yellow);
+    border-radius: var(--border-radius-medium);
+    width: 350px;
+    height: 500px;
+    object-fit: cover;
+    object-position: top center;
+    text-align: center;
+    font-size: 18px;
+}
+
+.cocktail__subtitle {
+    font-size: 25px;
+}
+
+
+.favorite {
+    position: absolute;
+    top: -5px;
+    left: 45%;
+    cursor: pointer;
+    object-fit: cover;
+    object-position: center center;
+    filter: drop-shadow(0 0 2px #000);
+}
+
+@media screen and (max-width: 750px) {
+    .ingredient {
+        width: 250px;
+        height: 400px;
+    }
+
+    .cocktail__subtitle {
+        font-size: 15px;
+    }
+
+}
+
+
+@media screen and (max-width: 500px) {
+    .ingredient {
+        margin-left: 0;
+    }
+
+}

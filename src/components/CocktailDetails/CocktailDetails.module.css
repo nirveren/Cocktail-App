@@ -1,0 +1,39 @@
+.cocktail__title {
+    text-align: center;
+    color: var(--color-yellow);
+    margin-bottom: var(--spacing-large);
+    text-shadow: 3px 3px 10px var(--color-black);
+    font-size: 35px;
+}
+
+.cocktail__container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.cocktail__image {
+    border-radius: var(--border-radius-medium);
+    width: 350px;
+    height: 500px;
+    object-fit: cover;
+    object-position: top center;
+}
+
+@media screen and (max-width: 750px) {
+    .cocktail__image {
+        width: 250px;
+        height: 400px;
+    }
+
+}
+@media screen and (max-width: 40px) {
+    .cocktail__image {
+        width: 150px;
+        height: 300px;
+    }
+
+}
+

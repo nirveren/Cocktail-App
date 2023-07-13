@@ -1,0 +1,15 @@
+.list__title {
+    text-align: center;
+    color: var(--color-yellow);
+    margin-bottom: var(--spacing-large);
+    text-shadow: 3px 3px 10px var(--color-black);
+    font-size: 35px;
+}
+
+
+@media screen and (max-width: 550px) {
+    .cocktail__list {
+        justify-content: center;
+    }
+
+}

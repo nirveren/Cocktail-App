@@ -1,0 +1,51 @@
+.alcohol__container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    
+}
+
+.alcohol__button {
+    position: relative;
+}
+
+.alko { 
+    position: relative;
+    width: 270px;
+    height: 470px;
+    border-radius: 10px;
+    object-fit: cover;
+    object-position: center center;
+    transition: .4s;
+}
+
+.alko:hover {
+    box-shadow: var(--text-shadow-yellow);
+}
+
+.alco__title {
+    position: absolute;
+    top: 20px;
+    margin-left: var(--spacing-small);
+    color: var(--color-black);
+    font-size: 25px;
+    text-shadow: 0px 0px 5px currentColor;
+}
+
+@media screen and (max-width: 900px) {
+    .alko {
+        margin-bottom: 20px;
+        margin-right: 10px;
+        height: 400px;
+    }
+
+   
+}
+@media screen and (max-width: 750px) {
+   
+
+    .alcohol__container {
+        justify-content: center;
+    }
+}
