@@ -2,7 +2,7 @@ import React from "react";
 import styles from './Cocktail.module.css';
 import {Link} from 'react-router-dom'
 
-const Cocktail = () => {
+const Cocktail = ({cocktail, alcohol}) => {
   const { strDrink, strDrinkThumb, idDrink} = cocktail;
 
   return (
