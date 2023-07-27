@@ -13,9 +13,7 @@ const Favorites = () => {
       {favorites.length === 0 ? (
         <p className={styles.sub__title}>No favorite cocktails found.</p>
       ) : (
-        // favorites.map(cocktail => <Cocktail key={cocktail.id} cocktail={cocktail} />)
         favorites.map(cocktail => {
-          console.log(cocktail.idDrink);
           return <Cocktail key={cocktail.idDrink} cocktail={cocktail} />;
         })
         

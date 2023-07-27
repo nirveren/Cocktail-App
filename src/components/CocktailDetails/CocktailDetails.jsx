@@ -6,12 +6,12 @@ import styles from "./CocktailDetails.module.css";
 import LinkBack from "../LinkBack/LinkBack";
 
 const CocktailDetails = () => {
-  const { alcohol, id } = useParams();
+  const { id } = useParams();
   const [cocktail, setCocktail] = useState(null);
 
   useEffect(() => {
     fetchCocktail();
-  }, [alcohol, id]);
+  }, [id]);
 
   const fetchCocktail = async () => {
     try {
