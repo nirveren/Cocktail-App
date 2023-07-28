@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Cocktail-App/static/css/main.fedaf5cc.css",
-    "main.js": "/Cocktail-App/static/js/main.44e42df1.js",
-    "static/media/bg.jpeg": "/Cocktail-App/static/media/bg.d49d1d6826cb56773976.jpeg",
-    "static/media/rum.jpeg": "/Cocktail-App/static/media/rum.869bc393b31f7ff0f8cc.jpeg",
-    "static/media/vodka.jpeg": "/Cocktail-App/static/media/vodka.0b3933cd625e928858f8.jpeg",
-    "static/media/teq.jpeg": "/Cocktail-App/static/media/teq.429ab4e0b6616b7f00a4.jpeg",
-    "static/media/gin.jpeg": "/Cocktail-App/static/media/gin.b404ef7f30f31af2ab4a.jpeg",
-    "static/media/cocktail.svg": "/Cocktail-App/static/media/cocktail.9bfaf99b374dfb47e4109acac406843b.svg",
-    "static/media/goBack.svg": "/Cocktail-App/static/media/goBack.e107e0eb59fd213b52f4443804c661d5.svg",
-    "static/media/favorite-fill.svg": "/Cocktail-App/static/media/favorite-fill.fa9fc6878ce42f19241e5ad2af937072.svg",
-    "static/media/favorite.svg": "/Cocktail-App/static/media/favorite.b1cb4323be07065420f0be3be7ed79ff.svg",
-    "index.html": "/Cocktail-App/index.html",
-    "main.fedaf5cc.css.map": "/Cocktail-App/static/css/main.fedaf5cc.css.map",
-    "main.44e42df1.js.map": "/Cocktail-App/static/js/main.44e42df1.js.map"
+    "main.css": "/static/css/main.c094c6cb.css",
+    "main.js": "/static/js/main.b3e99277.js",
+    "static/media/bg.jpeg": "/static/media/bg.d49d1d6826cb56773976.jpeg",
+    "static/media/rum.jpeg": "/static/media/rum.869bc393b31f7ff0f8cc.jpeg",
+    "static/media/vodka.jpeg": "/static/media/vodka.0b3933cd625e928858f8.jpeg",
+    "static/media/teq.jpeg": "/static/media/teq.429ab4e0b6616b7f00a4.jpeg",
+    "static/media/gin.jpeg": "/static/media/gin.b404ef7f30f31af2ab4a.jpeg",
+    "static/media/cocktail.svg": "/static/media/cocktail.9bfaf99b374dfb47e4109acac406843b.svg",
+    "static/media/goBack.svg": "/static/media/goBack.e107e0eb59fd213b52f4443804c661d5.svg",
+    "static/media/favorite-fill.svg": "/static/media/favorite-fill.fa9fc6878ce42f19241e5ad2af937072.svg",
+    "static/media/favorite.svg": "/static/media/favorite.b1cb4323be07065420f0be3be7ed79ff.svg",
+    "index.html": "/index.html",
+    "main.c094c6cb.css.map": "/static/css/main.c094c6cb.css.map",
+    "main.b3e99277.js.map": "/static/js/main.b3e99277.js.map"
   },
   "entrypoints": [
-    "static/css/main.fedaf5cc.css",
-    "static/js/main.44e42df1.js"
+    "static/css/main.c094c6cb.css",
+    "static/js/main.b3e99277.js"
   ]
 }
