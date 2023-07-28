@@ -11,7 +11,7 @@ const routesConfig = [
     element: <HomePage />
   },
   {
-    path: '/cocktails/:alcohol/:id',
+    path: '/cocktails/:id',
     element: <CocktailDetails />,
   },
   {

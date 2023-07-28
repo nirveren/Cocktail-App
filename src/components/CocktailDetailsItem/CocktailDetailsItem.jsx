@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { addToFavorites, removeFromFavorites } from "../../store/actions/actions";
 import styles from "./CocktailDetailsItem.module.css";
 import imgYellow from "./img/favorite.svg";
-import imgFill from "./img/favorite-fill.svg"
+import imgFill from "./img/favorite-fill.svg";
 
 const CocktailDetailsItem = ({ cocktail }) => {
   const favorites = useSelector((state) => state.favoriteReducer.favorites);
